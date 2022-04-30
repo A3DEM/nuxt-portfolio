@@ -1,0 +1,73 @@
+/*
+    SCSS variables
+*/
+
+/**
+    Colors
+*/
+
+$link-color: #0A7AFF;
+$font-color:#6D6D6D;
+$switch-color:#E9E9EB;
+$switch-active-color:#32D74B;
+$switch-button-color:#FFFFFF;
+
+/***
+    Light mode
+*/
+
+$light-background-color:#FFFFFF;
+$light-title-color:#202020;
+$light-menu-color:#C0C0C0BF;
+
+/***
+    Dark mode
+*/
+
+$dark-background-color:#000000;
+$dark-title-color:#FFFFFF;
+$dark-menu-color:#202020BF;
+
+/**
+    Font sizes
+*/
+
+$desktop-h1: 48px;
+$mobile-h1: 32px;
+
+$desktop-h2: 30px;
+$mobile-h2: 20px;
+
+$desktop-h3: 24px;
+$mobile-h3: 16px;
+
+$desktop-p: 18px;
+$mobile-p: 12px;
+
+/**
+    Font family
+*/
+
+@font-face {
+    font-family: 'SF Pro Display';
+    src: url("@/assets/fonts/sf-pro-display-regular.OTF") format("opentype");
+    font-display: swap;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'SF Pro Display';
+    src: url("@/assets/fonts/sf-pro-display-medium.OTF") format("opentype");
+    font-display: swap;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'SF Pro Display';
+    src: url("@/assets/fonts/sf-pro-display-bold.OTF") format("opentype");
+    font-display: swap;
+    font-weight: bold;
+}
+
+$font-family: "SF Pro Display";
+$font-family-fallback: sans-serif;
