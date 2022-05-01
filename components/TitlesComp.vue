@@ -3,7 +3,7 @@
         <div v-for="(item, index) in items" :key="index"  class="titles-container">
             <div class="titles-title">
                 <h2>{{item.title}}</h2>
-                <img :src="require(`@/assets/img/emoji/${item.filename}.png`)" :alt="item.alt" width="20" height="20">
+                <img :src="require(`@/assets/img/emoji/${item.filename}.png`)" :srcset="require(`@/assets/img/emoji/${item.filename}.webp`)" :alt="item.alt" width="20" height="20">
             </div>
             <p>{{item.paragraph}}</p>
         </div>

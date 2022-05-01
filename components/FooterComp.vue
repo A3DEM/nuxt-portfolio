@@ -1,6 +1,6 @@
 <template>
     <footer>
-       Made with <img src="@/assets/img/emoji/heart.png" alt="Love" height="15" width="15" loading="lazy"> + <img src="@/assets/img/svg/vuejs.svg" alt="Vue JS" height="15" width="15" loading="lazy"> in Mulhouse, France.
+       Made with <img src="@/assets/img/emoji/heart.png" srcset="@/assets/img/emoji/heart.webp" alt="Love" height="15" width="15" loading="lazy"> + <img src="@/assets/img/svg/vuejs.svg" alt="Vue JS" height="15" width="15" loading="lazy"> in Mulhouse, France.
     </footer>
 </template>
 

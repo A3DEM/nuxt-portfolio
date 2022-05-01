@@ -3,13 +3,13 @@
         <img class="me" src="@/assets/img/photo-presentation-small.jpg" srcset="@/assets/img/photo-presentation-small.webp" alt="C'est moi !" width="110" height="110">
         <div :class="{switch:true, active: isActive }">
             <div class="switch-img">
-                <img src="@/assets/img/emoji/sun.png" alt="Light Mode" width="30" height="30">
+                <img src="@/assets/img/emoji/sun.png" srcset="@/assets/img/emoji/sun.webp" alt="Light Mode" width="30" height="30">
             </div>
             <div class="switch-item" @click="isActive = !isActive; $emit('toggle')">
                 <input type="button" class="switch-toggle">
             </div>
             <div class="switch-img">
-                <img src="@/assets/img/emoji/moon.png" alt="Dark Mode" width="26" height="26">
+                <img src="@/assets/img/emoji/moon.png" srcset="@/assets/img/emoji/moon.webp" alt="Dark Mode" width="26" height="26">
             </div>
         </div>
     </header>

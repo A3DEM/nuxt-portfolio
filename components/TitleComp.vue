@@ -7,18 +7,18 @@
         </div>
         <div class="emojis">
             <div class="developer">
-                <img src="@/assets/img/emoji/developer.png" alt="Développeur" width="48" height="48">
+                <img src="@/assets/img/emoji/developer.png" srcset="@/assets/img/emoji/developer.webp" alt="Développeur" width="48" height="48">
                 <span>+</span>
-                <img src="@/assets/img/emoji/artist.png" alt="Artiste" width="48" height="48">
+                <img src="@/assets/img/emoji/artist.png" srcset="@/assets/img/emoji/artist.webp" alt="Artiste" width="48" height="48">
                 <span>+</span>
-                <img src="@/assets/img/emoji/ninja.png" alt="Ninja" width="48" height="48"  @click="change()">
+                <img src="@/assets/img/emoji/ninja.png" srcset="@/assets/img/emoji/ninja.webp" alt="Ninja" width="48" height="48"  @click="change()">
             </div>
             <div class="cdb beginning">
-                <img src="@/assets/img/emoji/custom/js.png" alt="JavaScript" width="48" height="48">
+                <img src="@/assets/img/emoji/custom/js.png" srcset="@/assets/img/emoji/custom/js.webp" alt="JavaScript" width="48" height="48">
                 <span>+</span>
-                <img src="@/assets/img/emoji/custom/scss.png" alt="SCSS" width="48" height="48">
+                <img src="@/assets/img/emoji/custom/scss.png" srcset="@/assets/img/emoji/custom/scss.webp" alt="SCSS" width="48" height="48">
                 <span>+</span>
-                <img src="@/assets/img/emoji/custom/vuejs.png" alt="Vue JS" width="48" height="48"  @click="change()">
+                <img src="@/assets/img/emoji/custom/vuejs.png" srcset="@/assets/img/emoji/custom/vuejs.webp" alt="Vue JS" width="48" height="48"  @click="change()">
             </div>
         </div>
         <div class="social-links">

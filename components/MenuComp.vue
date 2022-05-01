@@ -10,7 +10,7 @@
                 <li>
                     <a href="#about-me" :class="{clicked: isClicked == 1}" @click="clickedElement(1)">
                         <div class="emoji">
-                            <img src="@/assets/img/emoji/me.png" alt="" width="35" height="35" loading="lazy">
+                            <img src="@/assets/img/emoji/me.png" srcset="@/assets/img/emoji/me.webp" alt="À propos" width="35" height="35" loading="lazy">
                         </div>
                         <p>À propos</p>
                     </a>
@@ -18,7 +18,7 @@
                 <li>
                     <a href="#web" :class="{clicked: isClicked == 2}" @click="clickedElement(2)">
                         <div class="emoji">
-                            <img src="@/assets/img/emoji/computer.png" alt="" width="35" height="35" loading="lazy">
+                            <img src="@/assets/img/emoji/computer.png" srcset="@/assets/img/emoji/computer.webp" alt="Web" width="35" height="35" loading="lazy">
                         </div>
                         <p>Web</p>
                     </a>
@@ -26,7 +26,7 @@
                 <li>
                     <a href="#design" :class="{clicked: isClicked == 3}" @click="clickedElement(3)">
                         <div class="emoji">
-                            <img src="@/assets/img/emoji/design.png" alt="" width="35" height="35" loading="lazy">
+                            <img src="@/assets/img/emoji/design.png" srcset="@/assets/img/emoji/design.webp" alt="Design" width="35" height="35" loading="lazy">
                         </div>
                         <p>Graphisme</p>
                     </a>
@@ -34,7 +34,7 @@
                 <li>
                     <a href="#contact" :class="{clicked: isClicked == 4}" @click="clickedElement(4)">
                         <div class="emoji">
-                            <img src="@/assets/img/emoji/contact.png" alt="" width="35" height="35" loading="lazy">
+                            <img src="@/assets/img/emoji/contact.png" srcset="@/assets/img/emoji/contact.webp" alt="Contact" width="35" height="35" loading="lazy">
                         </div>
                         <p>Contact</p>
                     </a>
