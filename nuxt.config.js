@@ -40,7 +40,7 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
-    '@nuxtjs/google-analytics'
+    '@nuxtjs/google-analytics', '@nuxtjs/gtm'
   ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
@@ -50,5 +50,11 @@ export default {
   // Google Analytics
   googleAnalytics: {
     id: 'G-FLR2E9Y8JW'
-  } 
+  }, 
+
+  // Google Tag Manager
+  gtm: {
+    id: 'GTM-WDQ5QNB',
+    enabled : true
+  }
 }
