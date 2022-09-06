@@ -2,8 +2,8 @@
     <div id="about-me">
         <h2>À propos</h2>
         <div class="content">
-            <p>Fan de football, curieux et polyvalent, je suis étudiant en Licence professionnelle en Webdesign-Webdéveloppement ainsi qu’en alternance au sein de l’agence <LinkComp class="no-margin" title="Première Place" link="https://www.premiere.place/"/> à Mulhouse ! </p>
-            <p>Actuellement, je suis à la recherche d’une entreprise pour y effectuer mon mastère en Développement Web/Tech Lead chez Digital Campus Bordeaux.</p>
+            <p>Fan de football, curieux et polyvalent, j'ai obtenu une Licence professionnelle en Webdesign-Webdéveloppement en alternance au sein de l’agence <LinkComp class="no-margin" title="Première Place" link="https://www.premiere.place/"/> à Mulhouse !</p>
+            <p>Actuellement, je suis à Bordeaux pour y effectuer mon mastère en Développement Web/Tech Lead chez Digital Campus. J'ai rejoint l'équipe <LinkComp class="no-margin" title="Poool" link="https://www.poool.fr/"/> en apprentissage en tant que Développeur Junior.</p>
             <p>Découvrez ma personnalité, mon parcours et mes expériences à travers mon CV !</p>
             <LinkComp link="/DURAN-Adem-CV.pdf" download title="Télécharger le CV"/>
         </div>

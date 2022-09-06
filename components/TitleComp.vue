@@ -105,6 +105,9 @@
                 span {
                     margin: 0px 12px;
                 }
+                img:last-of-type {
+                    cursor: pointer;
+                }
             }
         }
         .subtitles .end, .emojis .end {
