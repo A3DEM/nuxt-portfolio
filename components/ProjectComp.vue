@@ -43,63 +43,63 @@ export default {
                     paragraph: "Dans le cadre de notre module de Vue, nous devons développer une application de recettes. Elle s'appuie sur une API faite par l'enseignant. Le projet nous permet de mettre en pratique plusieurs aspects fondamentaux de Vue comme les components, les props, les emits et entre autres l'utilisation d'Axios ! (Le projet est toujours en cours de réalisation. Si les recettes ne s'affichent pas, attendez que l'API se lance)",
                     links: [{
                         demo: "https://master--clever-kringle-b55b7d.netlify.app/",
-                        sourceCode: "https://github.com/A3DEM/vue-js-recipe-app/tree/master/recipe-app"
+                        sourceCode: "https://github.com/git2bezbar/vue-js-recipe-app/tree/master/recipe-app"
                     }]
                 },
                 {
                     title: "BMW M4",
                     paragraph: "Ce projet a pour but de présenter la BMW M4. Une attention particulière a été donnée au chargement. L'animation a été faite grâce à la librairie GSAP.",
                     links: [{
-                        demo: "https://a3dem.github.io/site_bmw/",
-                        sourceCode: "https://github.com/A3DEM/a3dem.github.io/tree/master/site_bmw/"
+                        demo: "https://git2bezbar.github.io/site_bmw/",
+                        sourceCode: "https://github.com/git2bezbar/git2bezbar.github.io/tree/master/site_bmw/"
                     }]
                 },
                 {
                     title: "Mocha café",
                     paragraph: "Lors de ma recherche de stage de 2ème année, j’ai effectué des tests au sein de l’entreprise Numendo. Je devais reproduire une maquette autour de la thématique du café. Voici le résultat du projet.",
                     links: [{
-                        demo: "https://a3dem.github.io/mocha_cafe_numendo/",
-                        sourceCode: "https://github.com/A3DEM/a3dem.github.io/tree/master/mocha_cafe_numendo/"
+                        demo: "https://git2bezbar.github.io/mocha_cafe_numendo/",
+                        sourceCode: "https://github.com/git2bezbar/git2bezbar.github.io/tree/master/mocha_cafe_numendo/"
                     }]
                 },
                 {
                     title: "Les cartes projets",
                     paragraph: "Lors du développement de mon portfolio, j’ai décidé de créer des cartes projets personnalisés. Voici le résultat ! Un effet de mouvement a été ajouté à la première carte en utilisant la libraire tilt.js.",
                     links: [{
-                        demo: "https://a3dem.github.io/card_projets/",
-                        sourceCode: "https://github.com/A3DEM/a3dem.github.io/tree/master/card_projets/"
+                        demo: "https://git2bezbar.github.io/card_projets/",
+                        sourceCode: "https://github.com/git2bezbar/git2bezbar.github.io/tree/master/card_projets/"
                     }]
                 },
                 {
                     title: "Matrix",
                     paragraph: "À l’occasion de la sortie du dernier film Matrix, j’ai tenté de créer une page qui reprend la direction artistique du 4ème volet de la saga.",
                     links: [{
-                        demo: "https://a3dem.github.io/matrix/",
-                        sourceCode: "https://github.com/A3DEM/a3dem.github.io/tree/master/matrix/"
+                        demo: "https://git2bezbar.github.io/matrix/",
+                        sourceCode: "https://github.com/git2bezbar/git2bezbar.github.io/tree/master/matrix/"
                     }]
                 },
                 {
                     title: "Calculatrice de matrices",
                     paragraph: "Afin de vérifier mes calculs pour mon module de maths pour le web, j’ai codé une calculatrice de matrices qui permet d’effectuer un produit matriciel.",
                     links: [{
-                        demo: "https://a3dem.github.io/inte_web/calculatrice_matrice/",
-                        sourceCode: "https://github.com/A3DEM/a3dem.github.io/tree/master/inte_web/calculatrice_matrice/"
+                        demo: "https://git2bezbar.github.io/inte_web/calculatrice_matrice/",
+                        sourceCode: "https://github.com/git2bezbar/git2bezbar.github.io/tree/master/inte_web/calculatrice_matrice/"
                     }]
                 },
                 {
                     title: "Fonctions mathématiques",
                     paragraph: "Dans le cadre du module de mathématiques, nous avons dû créer un ensemble de fonctions mathématiques. Ce projet de première année permet de calculer le PGCD, le PPCM, les coefficients de Bézout ainsi que la factorisation en nombres premiers pour deux nombres donnés, mais également de chiffrer votre message selon le décalage que vous souhaitez.",
                     links: [{
-                        demo: "https://a3dem.github.io/inte_web/projet_maths/",
-                        sourceCode: "https://github.com/A3DEM/a3dem.github.io/tree/master/inte_web/projet_maths"
+                        demo: "https://git2bezbar.github.io/inte_web/projet_maths/",
+                        sourceCode: "https://github.com/git2bezbar/git2bezbar.github.io/tree/master/inte_web/projet_maths"
                     }]
                 },
                 {
                     title: "Mercedes-Benz",
                     paragraph: "Cette page web reprend une maquette trouvée sur Dribbble. Pour ce projet, j'ai pu expérimenter des animations spéciales, notamment grâce au titre qui se dévoile au fur et à mesure.",
                     links: [{
-                        demo: "https://a3dem.github.io/inte_web/site_mercedes/",
-                        sourceCode: "https://github.com/A3DEM/a3dem.github.io/tree/master/inte_web/site_mercedes/"
+                        demo: "https://git2bezbar.github.io/inte_web/site_mercedes/",
+                        sourceCode: "https://github.com/git2bezbar/git2bezbar.github.io/tree/master/inte_web/site_mercedes/"
                     }]
                 },
                 {
@@ -107,15 +107,15 @@ export default {
                     paragraph: "Accompagné d’un ingénieur études et développement de SFEIR Strasbourg, j’ai pu créer mon portfolio sous Angular en reprenant un thème HTML pré-construit. Le principal objectif de ce projet était de mieux connaître l’environnement Angular.",
                     links: [{
                         demo: "https://portfolio-ademduran.web.app/",
-                        sourceCode: "https://github.com/A3DEM/portfolio-ademduran/"
+                        sourceCode: "https://github.com/git2bezbar/portfolio-ademduran/"
                     }]
                 },
                 {
                     title: "Switch Jour-Nuit",
                     paragraph: "Jouez avec le switch pour découvrir ce qu’il déclenche !",
                     links: [{
-                        demo: "https://a3dem.github.io/inte_web/switch_jour_nuit/",
-                        sourceCode: "https://github.com/A3DEM/a3dem.github.io/tree/master/inte_web/switch_jour_nuit/"
+                        demo: "https://git2bezbar.github.io/inte_web/switch_jour_nuit/",
+                        sourceCode: "https://github.com/git2bezbar/git2bezbar.github.io/tree/master/inte_web/switch_jour_nuit/"
                     }]
                 },
             ],
